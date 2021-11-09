@@ -1,1 +1,4 @@
-class Employee{}
+class Employee{
+   int eid;
+   String ename;
+}
