@@ -1,0 +1,14 @@
+//multiple two nubers;;
+
+class Test{
+public static int squareIt(int n){
+
+return n*n;
+}
+
+public static void main(String[] args){
+
+
+       System.out.println("sqaure of number 6::"+squareIt(5));
+}
+}
