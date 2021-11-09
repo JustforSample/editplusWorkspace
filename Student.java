@@ -1,1 +1,5 @@
-calss Student{}
+calss Student{
+	
+	int rollno;
+	String sname;
+}
